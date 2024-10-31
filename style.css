@@ -1,6 +1,9 @@
 body{
 font-family: Arial, Helvetica, sans-serif;
-
+padding: 40px;
+color: #434141;
+border-top:10 solid #20486d ;
+background: #fff;
 }
 
 h1{
