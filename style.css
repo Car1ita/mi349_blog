@@ -19,3 +19,11 @@ html{
       line-height: 1.4em;
   }
   
+  section{
+    display: flex;
+  }
+
+  article{
+    padding: 20px;
+    margin: 20px;
+  }
