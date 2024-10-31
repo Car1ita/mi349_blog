@@ -42,3 +42,17 @@ html{
     padding: 20px;
     margin: 20px;
   }
+
+  table{
+    border-collapse: collapse;
+  }
+
+  th,td{
+    border: 1px solid black;
+    padding: 6px;
+  }
+
+  thead{
+    background-color: #20486d;
+    color:#e3e3e3
+  }
