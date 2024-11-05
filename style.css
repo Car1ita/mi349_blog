@@ -1,13 +1,14 @@
 html{
-    background: #e3e3e3;
+    background: #979B8D;
+    
   }
   
   body{
       font-family: Arial, Helvetica, sans-serif;
     margin: 40px;
     padding: 40px;
-    border-top: 10px solid #20486d;
-    background: #fff; 
+    border-top: 10px solid #214E34;
+    background: #E1E2DA; 
   }
   
   h1{
@@ -37,7 +38,7 @@ html{
   }
 
   #blog{
-    border-top: 2px solid #ccc;
+    border-top: 2px solid #E1E2DA;
     margin: 15px;
   }
 
@@ -67,6 +68,6 @@ html{
   }
 
   thead{
-    background-color: #20486d;
-    color:#e3e3e3
+    background-color: #214E34;
+    color:#E1E2DA
   }
