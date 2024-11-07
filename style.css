@@ -31,7 +31,7 @@ html{
   }
 
   h3{
-    text-align: center;
+    text-align: left;
   }
   
   h4{
@@ -39,6 +39,7 @@ html{
   }
   nav{
     text-align: center;
+    margin-bottom: 20px;
   }
 
   nav ul {
@@ -58,6 +59,7 @@ html{
   }
 
 
+  
   p{
       line-height: 1.4em;
   }
@@ -87,7 +89,11 @@ html{
     color:#E1E2DA
   }
 
+
+
+
   .contact-section {
+    
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
@@ -97,8 +103,8 @@ html{
 }
 
 .contact-form {
-    display: flex;
-    flex-direction: column;
+    display: block;
+
     gap: 10px;
 }
 
