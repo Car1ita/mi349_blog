@@ -27,12 +27,16 @@ html{
   }
   h2{
     text-align: center;
+    margin-bottom: 20px;
   }
 
   h3{
-    text-align: left;
+    text-align: center;
   }
   
+  h4{
+
+  }
   nav{
     text-align: center;
   }
@@ -82,3 +86,24 @@ html{
     background-color: #214E34;
     color:#E1E2DA
   }
+
+  .contact-section {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #E1E2DA;
+    border: 1px solid #214E34;
+    border-radius: 15px;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contact-form label {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
